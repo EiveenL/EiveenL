@@ -1,8 +1,8 @@
 <div align="center">
-<h4>@EiveenL</h4>
-<h1 align="center">Hola, soy <a href="https://eiveenl.github.io/Portfolio/">Pedro Tumay Ramos</a> 👋</h1>
+<h3>@EiveenL</h3>
+<h1 align="center">Hola, soy <a href="https://eiveenl.github.io/Portfolio/">Pedro Tumay Ramos</a>👋</h1>
 </div>
-<img src="https://imgur.com/gallery/rqXKjtj">
+<img src="https://imgur.com/gallery/rqXKjtj.gif">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
