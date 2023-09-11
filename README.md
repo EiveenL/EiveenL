@@ -4,7 +4,7 @@
 
 <div align="center">
   
-![Purple Illustration Mountain and Train Desktop Wallpaper](https://github.com/EiveenL/EiveenL/assets/100743285/de7447e9-510e-42a0-aa0e-edd7f4a8a049)
+![Purple Illustration Mountain and Train Desktop Wallpaper](https://github.com/EiveenL/EiveenL/assets/100743285/66794b55-285f-40b1-9ce4-2ee225c782eb)
 
 [![GitHub followers](https://img.shields.io/github/followers/EiveenL?style=social)](https://www.github.com/EiveenL)
 [![Linkedin Badge](https://img.shields.io/badge/-PedroTR-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/EiveenL/)](https://www.linkedin.com/in/pedro-isrrael-tumay-ramos-217393270/)
