@@ -1,13 +1,8 @@
 <div align="center">
 <h3>@EiveenL</h3>
-<h1 align="center">Hola, soy <a href="https://eiveenl.github.io/Portfolio/">Pedro Tumay Ramos</a>👋</h1>
+<h1 align="center">Hi<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm <a href="https://eiveenl.github.io/Portfolio/">Pedro Tumay Ramos</a>👋</h1>
 </div>
 <img src="https://imgur.com/gallery/rqXKjtj.gif">
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 ## Sobre mi
 
