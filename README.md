@@ -2,8 +2,9 @@
 <h3>@EiveenL</h3>
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm <a href="https://eiveenl.github.io/Portfolio/">Pedro Tumay Ramos</a></h1>
 </div>
-<img src="https://imgur.com/rqXKjtj.gif">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/rqXKjtj"  ><a href="//imgur.com/a/rqXKjtj">Animated Space Background for BS:E posts</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![gifgithub](https://github.com/EiveenL/EiveenL/assets/100743285/a483b5c7-f0cc-445f-a68d-2924153d0749)
+
+
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
