@@ -1,6 +1,6 @@
 <div align="center">
 <h3>@EiveenL</h3>
-<h1 align="center">Hi<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm <a href="https://eiveenl.github.io/Portfolio/">Pedro Tumay Ramos</a>👋</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm <a href="https://eiveenl.github.io/Portfolio/">Pedro Tumay Ramos</a></h1>
 </div>
 <img src="https://imgur.com/gallery/rqXKjtj.gif">
 
