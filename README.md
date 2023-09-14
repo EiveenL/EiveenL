@@ -28,6 +28,7 @@
 
 
 <div>
+	<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 	<p align="left">
 		I am a junior data scientist and analyst, I like to find solutions to problems by analyzing data in order to generate
 		useful answers using predictive models.
@@ -35,6 +36,7 @@
 		I help organizations unlock the hidden value in their data, transforming information into strategic
 		knowledge that drives effective decision-making and sustainable business growth
 	</p>
+	
 </div>
 
 <br>
