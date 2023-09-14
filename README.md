@@ -75,7 +75,7 @@
 <a href="https://www.facebook.com/pedroisrael.tumayC.137" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebookicon" height="30" width="40" /></a>
 <a href="https://www.instagram.com/israeltr.exe/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagramimage" height="30" width="40" /></a>
 <a href="https://github.com/EiveenL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="githubimage" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shahadat-hossain-hridoy-629aa81b3/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-isrrael-tumay-ramos-217393270/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pedro-isrrael-tumay-ramos-217393270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedinicon" height="30" width="40" /></a>
 
 
   <div align="center">
