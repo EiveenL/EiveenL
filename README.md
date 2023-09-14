@@ -69,10 +69,13 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=EiveenL&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+
+<a href="https://www.facebook.com/pedroisrael.tumayC.137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
+<a href="https://www.instagram.com/israeltr.exe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
+<a href="https://github.com/EiveenL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
+    
 
   <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
