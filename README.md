@@ -3,8 +3,8 @@
 
 <div align="center">
 <h3>@EiveenL</h3>
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm <a href="https://eiveenl.github.io/Portfolio/" style="color: #FFD700;">Pedro Tumay Ramos</a></h1>
-
+<h1>Hi👋, I'm <a href="https://eiveenl.github.io/Portfolio/" style="color: #FFD700;">Pedro Tumay Ramos</a></h1>
+	
 <div align="center">
 	
 ![Purple Illustration Mountain and Train Desktop Wallpaper](https://github.com/EiveenL/EiveenL/assets/100743285/66794b55-285f-40b1-9ce4-2ee225c782eb)
